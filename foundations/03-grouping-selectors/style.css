@@ -1,0 +1,14 @@
+.click {
+    background-color: #000000;
+    color: white;
+    font-weight: bold;
+}
+.dont {
+    background-color: hsl(0, 100%, 50%);
+
+}
+.click,
+.dont {
+    font-size: 28px;
+    font-family: helvetica, "The new romans", sans-serif;
+}
