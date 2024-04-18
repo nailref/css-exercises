@@ -3,9 +3,12 @@
   border: 4px solid midnightblue;
   width: 400px;
   height: 300px;
+<<<<<<< HEAD
   display: flex;
   justify-content: center;
   align-items: center;
+=======
+>>>>>>> 48b420c45a31bf0cb19fc173814b4184d07fd3f3
 }
 
 .box {
@@ -15,6 +18,10 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+<<<<<<< HEAD
   align-content: center;
 
 }
+=======
+}
+>>>>>>> 48b420c45a31bf0cb19fc173814b4184d07fd3f3
