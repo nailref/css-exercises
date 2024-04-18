@@ -4,7 +4,6 @@
   width: 400px;
   height: 300px;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
@@ -16,4 +15,6 @@
   border: 6px solid maroon;
   width: 80px;
   height: 80px;
+  align-content: center;
+
 }
